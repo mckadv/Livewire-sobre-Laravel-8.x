@@ -2,7 +2,7 @@
 
 Livewire es un framework fullstack para desarrollo de componentes dinámicos basados en PHP y con vistas en Blade, que son capaces de reaccionar reactivamente en el lado del cliente con Ajax a cambios en los datos. Livewire ofrece la posibilidad de realizar componentes con programación Javascript avanzada, pero sin necesidad de escribir código Javascript, o sea, del lado del cliente.
 
-![Gestión de productos en Laravel](public/img/crudproduct.jpg) {.figure}
+![Gestión de productos en Laravel](public/img/crudproduct.jpg "Gestión de productos con Laravel")
 
 Por medio de **componentes Livewire** que puedes escribir con vistas de Blade, es posible conversar entre el cliente y el servidor de una manera sencilla y sin necesidad de recargar la página. Livewire permite realizar sitios web con una experiencia de usuario avanzada, similares a los que realizarías con sistemas como Vue o React solamente con programación en el lado del servidor.
 
